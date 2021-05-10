@@ -29,3 +29,5 @@
 *IA, basada en la nube se basa en una amplia gama de servicios, cuyo núcleo es el aprendizaje automático. El aprendizaje automático es una técnica de ciencia de datos que permite a las computadoras usar datos existentes para predecir comportamientos, resultados y tendencias futuros. *
 
   
+  
+  
